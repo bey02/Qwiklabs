@@ -1,4 +1,4 @@
-##Track A - Cloud Engineering Track
+## Track A - Cloud Engineering Track
 Create and Manage Cloud Resources (DONE)
 
 Perform Foundational Infrastructure Tasks in Google Cloud (DONE)
@@ -7,7 +7,7 @@ Set Up and Configure a Cloud Environment in Google Cloud (DONE)
 
 Build and Secure Networks in Google Cloud (DONE)
 
-##Track B - Data Science and Machine Learning Track
+## Track B - Data Science and Machine Learning Track
 
 Create and Manage Cloud Resources (DONE)
 
@@ -17,7 +17,7 @@ Insights from Data with BigQuery (DONE)
 
 Create ML Models with BigQuery ML (DONE)
 
-##Track C - Cloud Developer Track
+## Track C - Cloud Developer Track
 
 Serverless Cloud Run Development (DONE)
 
@@ -27,7 +27,7 @@ Optimize Costs for Google Kubernetes Engine (LAB IN MAINTENANCE)
 
 Automating Infrastructure on Google Cloud with Terraform (DIDNT DO IT YET)
 
-##Track-D: DevOps
+## Track-D: DevOps
 
 Quest1: Baseline: Infrastructure (DONE)
 

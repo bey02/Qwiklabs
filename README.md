@@ -10,24 +10,34 @@ Build and Secure Networks in Google Cloud (DONE)
 ##Track B - Data Science and Machine Learning Track
 
 Create and Manage Cloud Resources (DONE)
+
 Perform Foundational Data, ML, and AI Tasks in Google Cloud (DONE)
+
 Insights from Data with BigQuery (DONE)
+
 Create ML Models with BigQuery ML (DONE)
 
 ##Track C - Cloud Developer Track
 
 Serverless Cloud Run Development (DONE)
+
 Serverless Firebase Development (LAB WITH BUG)
+
 Optimize Costs for Google Kubernetes Engine (LAB IN MAINTENANCE)
+
 Automating Infrastructure on Google Cloud with Terraform (DIDNT DO IT YET)
 
-Track-D: DevOps
-Quest1: Baseline: Infrastructure (DONE)
-Quest2: DevOps Essentials 
-Quest3: Implement DevOps in Google Cloud
-Quest4: Kubernetes in Google Cloud
-Quest5: Google Cloud Solutions I: Scaling Your Infrastructure (DIDNT DO IT YET)
+##Track-D: DevOps
 
+Quest1: Baseline: Infrastructure (DONE)
+
+Quest2: DevOps Essentials 
+
+Quest3: Implement DevOps in Google Cloud
+
+Quest4: Kubernetes in Google Cloud
+
+Quest5: Google Cloud Solutions I: Scaling Your Infrastructure (DIDNT DO IT YET)
 
 
 

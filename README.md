@@ -37,7 +37,7 @@ Quest3: Implement DevOps in Google Cloud (2 LABS IN MANTENANCE) ❌
 
 Quest4: Kubernetes in Google Cloud (DONE) ✅
 
-Quest5: Google Cloud Solutions I: Scaling Your Infrastructure (DIDNT DO IT YET) 💬
+Quest5: Google Cloud Solutions I: Scaling Your Infrastructure (LAB IN MAINTENANCE) 💬
 
 
 
@@ -84,6 +84,9 @@ LAB 2
 ![image](https://user-images.githubusercontent.com/114618786/209659523-724b0207-3898-4db3-9ec5-c1228cbce469.png)
 
 
+### Quest 5:  Google Cloud Solutions I: Scaling Your Infrastructure
+
+![image](https://user-images.githubusercontent.com/114618786/209811398-35640496-2926-441d-8ad6-00ccb6c72c93.png)
 
 
 

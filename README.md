@@ -23,7 +23,7 @@ Serverless Cloud Run Development (DONE) ✅
 
 Serverless Firebase Development (LAB WITH BUG) ❌
 
-Optimize Costs for Google Kubernetes Engine (LAB IN MAINTENANCE) ❌
+Optimize Costs for Google Kubernetes Engine (LAB IN MAINTENANCE) 💬
 
 Automating Infrastructure on Google Cloud with Terraform (DONE) ✅
 
@@ -31,9 +31,9 @@ Automating Infrastructure on Google Cloud with Terraform (DONE) ✅
 
 Quest1: Baseline: Infrastructure (DONE) ✅
 
-Quest2: DevOps Essentials (LAB IN MINTENANCE) ❌
+Quest2: DevOps Essentials (LAB IN MINTENANCE) 💬
 
-Quest3: Implement DevOps in Google Cloud (2 LABS IN MANTENANCE) ❌
+Quest3: Implement DevOps in Google Cloud (2 LABS IN MANTENANCE) 💬
 
 Quest4: Kubernetes in Google Cloud (DONE) ✅
 

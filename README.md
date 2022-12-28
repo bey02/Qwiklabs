@@ -25,7 +25,7 @@ Serverless Firebase Development (LAB WITH BUG) ❌
 
 Optimize Costs for Google Kubernetes Engine (LAB IN MAINTENANCE) ❌
 
-Automating Infrastructure on Google Cloud with Terraform (DIDNT DO IT YET) 💬
+Automating Infrastructure on Google Cloud with Terraform (DONE) ✅
 
 ## Track-D: DevOps
 
